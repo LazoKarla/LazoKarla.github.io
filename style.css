@@ -1,0 +1,43 @@
+html,
+body {
+  background-color: #e673cd;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  color: #ffffff;
+  font-family: "roboto";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 2rem;
+}
+
+.main {
+  padding: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  padding: 2rem;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+  display: block;
+  padding: 1rem;
+  text-align: center;
+  font-size: 1rem;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+}
+
+.boton {
+  margin-block: 2rem;
+}
+
+a:hover {
+  transform: scale(1.1);
+  box-shadow: 0px 5px 10px #ffffff;
+}
