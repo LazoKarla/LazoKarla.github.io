@@ -136,9 +136,11 @@ body {
 h1 {
   color: #ffffff;
   font-family: "Slabo 27px", serif;
-  font-weight: 400;
+  font-weight: 700;
   font-style: normal;
-  font-size: 2rem;
+  font-size: 4rem;
+  align-items: center;
+  justify-content: center;
 }
 
 .main {
